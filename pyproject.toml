@@ -13,6 +13,17 @@ pillow = "^10.4.0"
 ipython = "^8.26.0"
 getenv = "^0.2.0"
 python-dotenv = "^1.0.1"
+drf-yasg = "^1.21.7"
+django-celery-beat = "^2.6.0"
+django-cors-headers = "^4.4.0"
+djangorestframework-simplejwt = "^5.3.1"
+setuptools = "^72.1.0"
+celery = "^5.4.0"
+gevent = "^24.2.1"
+redis = "^5.0.8"
+requests = "^2.32.3"
+coverage = "^7.6.0"
+flake8 = "^7.1.0"
 
 
 [build-system]
